@@ -1,0 +1,44 @@
+export const robots = [
+   {
+      id: 1,
+      name: 'Winell Fry',
+      nickname: 'Momma',
+      motto: 'Stop stealing my stuff'
+   },
+   {
+      id: 2,
+      name: 'Buenny Fry',
+      nickname: 'Dadda',
+      motto: 'So tired'
+   },
+   {
+      id: 3,
+      name: 'Wriley Fry',
+      nickname: 'Cupcake (aka Turkey)',
+      motto: 'Wiley do it. Applehoss? Gwam Quackus?'
+   },
+   {
+      id: 4,
+      name: 'Wilma Fowlks',
+      nickname: 'Nanna',
+      motto: 'You know what? Get me a ...'
+   },
+   {
+      id: 5,
+      name: 'Naty Fry',
+      nickname: 'Gramma',
+      motto: 'God bless you and we love you all'
+   },
+   {
+      id: 6,
+      name: 'Joseph Fry',
+      nickname: 'Grampa',
+      motto: '?????'
+   },
+   {
+      id: 7,
+      name: 'Pepeh Fry',
+      nickname: 'Poops',
+      motto: 'I\'m a dog'
+   }
+]
