@@ -17,7 +17,7 @@ class App extends Component {
     componentDidMount() {
     	fetch('https://jsonplaceholder.typicode.com/users')
     	   .then(response => response.json())
-    	   .then(users => this.setState({ robots: users }));
+    	   .then(users =>{console.log(users); return this.setState({ robots: users })});
     }
 
     // anytime you make your own methods, use arrow functions
